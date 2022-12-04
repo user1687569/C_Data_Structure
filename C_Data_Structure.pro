@@ -1,4 +1,5 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-    matrix_multiply
+    matrix_multiply \
+    swap_number
